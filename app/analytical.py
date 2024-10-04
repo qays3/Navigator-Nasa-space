@@ -13,7 +13,9 @@ earth_factors = {
 }
 
 
-data = pd.read_csv('../datasets/PSCompPars_2024.10.04_09.06.22.csv', delimiter=',')
+
+data = pd.read_csv('datasets/PSCompPars_2024.10.04_09.06.22.csv', delimiter=',')
+
 data.columns = data.columns.str.strip()
 
 print("Columns in the DataFrame:", data.columns)
