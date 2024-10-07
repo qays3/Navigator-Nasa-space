@@ -13,7 +13,8 @@
 - [Requirements](#requirements)
 
 ## Overview
-Developed for the **Navigator for the Habitable Worlds Observatory (HWO)** challenge, this project simulates the TRAPPIST-1 solar system. It provides habitability percentages for each planet using data served through an API that processes JSON files.
+Developed for the **Navigator for the Habitable Worlds Observatory (HWO) challenge**, this project simulates the TRAPPIST-1 solar system. It provides habitability percentages for each planet using data served through an API that processes JSON files containing a comprehensive dataset of factors influencing habitability. The backend operations, including the habitability calculations, are powered by FastAPI and Python modules, while the frontend utilizes Three.js to render 3D visualizations of the solar system and planets.
+
 
 ## Folder Structure
 ```
