@@ -105,6 +105,6 @@ Located at `api/api.py`, the API serves the JSON data containing habitability sc
 ## Credits
 [qays3](https://github.com/qays3) ([Support qays](https://buymeacoffee.com/hidden))
 
-&
+a
 
 [Mstr0A](https://github.com/Mstr0A) ([Support Mstr0A](https://buymeacoffee.com/mstr0a))
