@@ -97,6 +97,9 @@ Located at `api/api.py`, the API serves the JSON data containing habitability sc
     <a href="https://github.com/Mstr0A" style="text-decoration: none; display: flex; align-items: center;">
         <img src="https://github.com/Mstr0A.png" alt="@Mstr0A" title="@Mstr0A" width="100px" height="100px" style="border-radius: 50%; margin-right: 10px;">
     </a>
+    <a href="https://github.com/Wadee-Haddad" style="text-decoration: none; display: flex; align-items: center;">
+        <img src="https://github.com/Wadee-Haddad.png" alt="@Andrata" title="@Andrata" width="100px" height="100px" style="border-radius: 50%; margin-right: 10px;">
+    </a>
     <a href="https://github.com/Andrata" style="text-decoration: none; display: flex; align-items: center;">
         <img src="https://github.com/Andrata.png" alt="@Andrata" title="@Andrata" width="100px" height="100px" style="border-radius: 50%; margin-right: 10px;">
     </a>
